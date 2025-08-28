@@ -12,7 +12,7 @@ export default function HomePage() {
                         </h1>
                         <div className="w-24 h-1 bg-accent mx-auto"></div>
                         <p className="pt-20 text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto text-pretty font-medium">
-                            Hosting Infrastructure for Caldwell University
+                            Hosting Infrastructure for Caldwell University (Beta)
                         </p>
                     </div>
                 </div>
