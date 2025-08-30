@@ -6,7 +6,7 @@ export default function HomePage() {
                     {/* Hero Section */}
                     <div className="space-y-6">
                         <h1 className="text-5xl md:text-7xl font-black text-primary tracking-tighter text-balance uppercase">
-                            Caldwell
+                            C-stem
                             <br />
                             Web Services
                         </h1>
