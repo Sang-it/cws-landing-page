@@ -8,7 +8,7 @@ export default function HomePage() {
                         <h1 className="text-5xl md:text-7xl font-black text-primary tracking-tighter text-balance uppercase">
                             C-stem
                             <br />
-                            Web Services
+                            Web Services newww
                         </h1>
                         <div className="w-24 h-1 bg-accent mx-auto"></div>
                         <p className="pt-20 text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto text-pretty font-medium">
